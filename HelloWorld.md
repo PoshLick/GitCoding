@@ -1,10 +1,5 @@
-~Тест~
 
--Тест-
+Exegi 4 horas remanens quomodo dis quia semper diversi erant cimices.
 
-*Пошлапоехала*
-
-Начинаем наше знакомство с контролем версий.
-ОМГФКg
-трололо
+                                                     *sic parvis magna*
 
