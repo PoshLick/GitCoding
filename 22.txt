@@ -5,14 +5,11 @@
 22
 333
 Всем привет!
-<<<<<<< HEAD
-Test! Looking for issues:
+Test! Looking for issues: FOUND SOME ISSUES
 1
 22
 333
-=======
 Looking for issues"
 22
 333
 1
->>>>>>> dev_1
