@@ -1,5 +1,6 @@
 Всем привет!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Test! Looking for issues:
 1
 22
@@ -10,3 +11,10 @@ Looking for issues"
 333
 1
 >>>>>>> dev_1
+=======
+333
+22
+2
+22
+333
+>>>>>>> dev_2
