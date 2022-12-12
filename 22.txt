@@ -5,11 +5,8 @@
 22
 333
 Всем привет!
-<<<<<<< HEAD
 Test! Looking for issues: FOUND SOME ISSUES
-=======
 Test! Looking for issues: FOUND SOME MORE ISSUES LOL
->>>>>>> dev_3
 1
 22
 333
