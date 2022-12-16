@@ -6,11 +6,28 @@
 */
 
 Console.Clear();
-Console.Write("Введите число: ");
-int a = Convert.ToInt32(Console.ReadLine());
-if (a%2 == 0){
-    Console.WriteLine("Число чётное");
+
+Console.WriteLine("введи первое число:");
+int Num1 = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("введи второе число:");
+int Num2 = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("введи третье число:");
+int Num3 = Convert.ToInt32(Console.ReadLine());
+
+if (Num1 > Num2 && Num1 > Num3)
+{
+    
+    Console.WriteLine($"Максимальное значение = {Num1} ");
+
 }
-else{
-    Console.WriteLine("Число нечётное");
+else if (Num3 > Num2)
+{
+    Console.WriteLine($"Максимальное значение = {Num3} ");
+}
+
+else
+{
+    Console.WriteLine($"Максимальное значение = {Num2} ");
 }
