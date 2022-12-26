@@ -4,7 +4,7 @@ Console.WriteLine("Введите трёхзначное число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 if (1000<=a) 
 {
-    Console.WriteLine("Вводи трёхзначное, бл#дь ");
+    Console.WriteLine("Трёхзначное - это число из ТРЁХ символов ");
 }
 else 
 {
